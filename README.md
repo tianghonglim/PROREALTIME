@@ -1,3 +1,5 @@
+This is a simple buy on dips formula using the RSI indicator. The below codes are used on the PRO REAL TIME system which has a list of technical indicators. Basically we enter the trades when the short term RSI deviates too much from the long term RSI and we aim to exit the trade when they are closer together. An additional condition will be that we will only enter the trade when the ATR is lower than the day before, to reduce the probability of catching a falling knife. We want to enter the trade when there is reduced volatility. I tested this on four major currency pairs, the GBP, AUD, CAD and EUR. All four currencies experienced upward movements in the equity curve using this strategy, but this strategy works better in the last ten years compared to the periods before that.
+
 # PROREALTIME
 
 //-------------------------------------------------------------------------
