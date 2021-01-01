@@ -61,3 +61,16 @@ ENDIF![GBP](https://user-images.githubusercontent.com/67822973/103166972-2c2be08
 ![AUD](https://user-images.githubusercontent.com/67822973/103166973-2df5a400-4862-11eb-939b-40e8dfdaca5c.PNG)
 ![CAD](https://user-images.githubusercontent.com/67822973/103166974-2f26d100-4862-11eb-88bc-f8c3cc1342dd.PNG)
 ![EUR](https://user-images.githubusercontent.com/67822973/103166975-2fbf6780-4862-11eb-8ea7-9a325b65a3c6.PNG)
+
+This is when the difference is 15 and we exit at 10.
+![AUD1510](https://user-images.githubusercontent.com/67822973/103436137-81e1fd80-4c53-11eb-8e5f-b5437b44a3c1.PNG)
+![CAD1510](https://user-images.githubusercontent.com/67822973/103436138-83132a80-4c53-11eb-8af9-ca58092a438c.PNG)
+![EUR1510](https://user-images.githubusercontent.com/67822973/103436140-84445780-4c53-11eb-9e75-eac20eaa2942.PNG)
+![GBP1510](https://user-images.githubusercontent.com/67822973/103436141-84dcee00-4c53-11eb-9c0a-3b34c19bdac1.PNG)
+
+This is when the difference is 20 and we exit at 15. With this large difference, the trades are lesser.
+![EUR2015](https://user-images.githubusercontent.com/67822973/103436144-8b6b6580-4c53-11eb-8dbf-8794b5ff78eb.PNG)
+![GBP2015](https://user-images.githubusercontent.com/67822973/103436146-8c9c9280-4c53-11eb-99d3-53beedaa18de.PNG)
+![AUD2015](https://user-images.githubusercontent.com/67822973/103436147-8d352900-4c53-11eb-9252-2345ace8bc9f.PNG)
+![CAD2015](https://user-images.githubusercontent.com/67822973/103436148-8dcdbf80-4c53-11eb-85ee-d1dcfac7ae90.PNG)
+
